@@ -18,7 +18,7 @@ In the dataframe below, we organized the city and ride data by the three city ty
    - The average fare per driver was the highest in rural areas at $55.49, $16 higher than suburban cities and $39 higher than urban cities. 
 
 Based on the total fares per city type, we then created a multi-line graph with the three city types from January 1st 2019 to April 29th 2019 charted for each week.
-![Fare_By_City_Type.png](Pictures/Fare_By_City_Type.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
    
    - Urban cities consistently produced highest total fares per week followed by suburban areas, and rural areas producing the lowest.
 
